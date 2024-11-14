@@ -1,4 +1,4 @@
-# Full Stack Junior Developer
+# Full Stack Developer
 Hello my name is Paola, <br><br>I am a full stack developer who is constantly learning. I like to learn new technologies and have fun programming. Here you can find a little bit of my work!.<br><br>
 
 ## 🌐 Socials:
