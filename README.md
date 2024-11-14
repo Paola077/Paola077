@@ -8,4 +8,3 @@ Hello my name is Paola, <br><br>I am a full stack developer who is constantly le
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Postman](https://img.shields.io/badge/SQL-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola077&layout=compact&theme=dark)
