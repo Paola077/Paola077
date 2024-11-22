@@ -1,5 +1,5 @@
 # Full Stack Developer
-Hello my name is Paola, <br><br>I am a full stack developer who is constantly learning. I like to learn new technologies and have fun programming. Here you can find a little bit of my work!.<br><br>
+Hello my name is Paola, <br><br>I am a full stack developer, with an inclination towards the backend, I am constantly learning. I like to learn new technologies and have fun programming. Here you can find a little bit of my work!.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paolaperdomo07) 
