@@ -1,5 +1,5 @@
 # Backend Developer
-Hello my name is Paola, <br><br>I am a full stack developer with a preference for backend development, I am constantly learning. I like to learn new technologies and have fun programming. Here you can find a little bit of my work!.<br><br>
+Hello my name is Paola, <br><br>Full Stack / Backend Junior Developer with experience in Java, Spring Boot, React, and SQL databases. Skilled in REST APIs and unit testing. Passionate about learning, solving problems, and contributing to dynamic tech projects!<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paolaperdomo07) 
