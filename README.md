@@ -1,4 +1,4 @@
-# Backend Developer
+# Full Stack Developer
 Hello my name is Paola, <br><br>Full Stack / Backend Junior Developer with experience in Java, Spring Boot, React, and SQL databases. Skilled in REST APIs and unit testing. Passionate about learning, solving problems, and contributing to dynamic tech projects!<br><br>
 
 ## 🌐 Socials:
